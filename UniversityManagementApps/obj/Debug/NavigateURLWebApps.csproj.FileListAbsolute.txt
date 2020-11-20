@@ -1,0 +1,12 @@
+C:\Users\Mostafa\Desktop\donnet\NavigateURLWebApps\NavigateURLWebApps\bin\NavigateURLWebApps.dll.config
+C:\Users\Mostafa\Desktop\donnet\NavigateURLWebApps\NavigateURLWebApps\bin\NavigateURLWebApps.dll
+C:\Users\Mostafa\Desktop\donnet\NavigateURLWebApps\NavigateURLWebApps\bin\NavigateURLWebApps.pdb
+C:\Users\Mostafa\Desktop\donnet\NavigateURLWebApps\NavigateURLWebApps\obj\Debug\NavigateURLWebApps.dll
+C:\Users\Mostafa\Desktop\donnet\NavigateURLWebApps\NavigateURLWebApps\obj\Debug\NavigateURLWebApps.pdb
+C:\Users\Mostafa\Desktop\donnet\NavigateURLWebApps\NavigateURLWebApps\obj\Debug\NavigateURLWebApps.csprojResolveAssemblyReference.cache
+C:\Users\Mostafa\Desktop\universityManagement\NavigateURLWebApps\NavigateURLWebApps\bin\NavigateURLWebApps.dll.config
+C:\Users\Mostafa\Desktop\universityManagement\NavigateURLWebApps\NavigateURLWebApps\bin\NavigateURLWebApps.dll
+C:\Users\Mostafa\Desktop\universityManagement\NavigateURLWebApps\NavigateURLWebApps\bin\NavigateURLWebApps.pdb
+C:\Users\Mostafa\Desktop\universityManagement\NavigateURLWebApps\NavigateURLWebApps\obj\Debug\NavigateURLWebApps.csprojResolveAssemblyReference.cache
+C:\Users\Mostafa\Desktop\universityManagement\NavigateURLWebApps\NavigateURLWebApps\obj\Debug\NavigateURLWebApps.dll
+C:\Users\Mostafa\Desktop\universityManagement\NavigateURLWebApps\NavigateURLWebApps\obj\Debug\NavigateURLWebApps.pdb
